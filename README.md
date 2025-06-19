@@ -14,6 +14,8 @@ You can simply download the zip file here or clone this repo using bash:
 ```bash
 git clone https://github.com/makuu12/GURU99-Insurance-System-E2E-Testing.git
 
+```
+
 ## 📁 Folder Structure
 
 Main folder/
@@ -28,6 +30,7 @@ Main folder/
 │ ├── qoutationModule.py # To add/modify quotation data
 │ └── setup.py # Initializes and starts the driver
 └── main.py # Executable file to run the program
+
 
 ---
 
