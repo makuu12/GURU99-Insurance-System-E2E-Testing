@@ -1,0 +1,22 @@
+{
+    "title": "Mr",
+    "firstname": "Jane",
+    "surname": "Doe",
+    "contact": "09091234567",
+    "birthdate": {
+        "year": "1940",
+        "month": "January",
+        "day": "1"
+    },
+    "status": "Provisional",
+    "licenceperiod": "2",
+    "occupation": "Doctor",
+    "Address": {
+        "street": "Okc Street",
+        "city": "Sydney",
+        "county": "Australia",
+        "postcode": "1234"
+    },
+    "email": "test@gmail.com",
+    "password": "123"
+}

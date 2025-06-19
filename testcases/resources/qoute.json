@@ -1,0 +1,14 @@
+{
+  "breakdown_cover": "At home",
+  "windscreen_repair": "YES",
+  "incident_description": "123",
+  "registration": "123",
+  "mileage": "123",
+  "value": "123",
+  "parking_location": "Public Place",
+  "policy_start": {
+    "year": "2015",
+    "month": "January",
+    "day": "1"
+  }
+}
