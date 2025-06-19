@@ -24,4 +24,6 @@ if __name__ == "__main__":
     manage(base.driver).editProfile() 
     ClickModule(base.driver).profile()
     manage(base.driver).verifyProfile() 
+
+    manage(base.driver).logout() 
     
