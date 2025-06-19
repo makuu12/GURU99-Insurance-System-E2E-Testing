@@ -18,6 +18,7 @@ git clone https://github.com/makuu12/GURU99-Insurance-System-E2E-Testing.git
 
 ## 📁 Folder Structure
 
+```bash
 Main folder/
 ├── library/
 │ └── components.py # My personal reusable functions to program efficiently
@@ -30,7 +31,7 @@ Main folder/
 │ ├── qoutationModule.py # To add/modify quotation data
 │ └── setup.py # Initializes and starts the driver
 └── main.py # Executable file to run the program
-
+```
 
 ---
 
